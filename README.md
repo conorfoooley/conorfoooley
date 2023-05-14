@@ -14,7 +14,7 @@ Mainly focused on web development, but in recent years I have dived in the Mobil
 - React Native • Flutter • Ios/Android<br />
 - TypeScript, Python • Django • Web Scriping, PHP • Laravel etc<br />
 - Skype ID: live:.cid.f2ecb8d91814e046<br />
-- Mail: mmarkusschuster87@gmail.com<br />
+- Mail: conorfoooley@gmail.com<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Acetobi0302&label=Profile%20views&color=0e75b6&style=flat" alt="Astroboy0302" /> </p>
 <p align="center" style = "size:16px;">
