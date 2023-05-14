@@ -3,7 +3,7 @@
 <h1 align="center">👋 Senior Web and Mobile Engineer</h1>
 
 Thanks for your visiting my profile.<br />
-I'm a top Web & Mobile Developer for 6+ years.<br />
+I'm a top Web & Mobile Developer for 8+ years.<br />
 I have started programming when I was 10 at code school and have worked on IT company since 2015.<br />
 Mainly focused on web development, but in recent years I have dived in the Mobile field and worked on some projects in big and small business.<br />
 
